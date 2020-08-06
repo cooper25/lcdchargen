@@ -1,10 +1,11 @@
 lcdchargen
 ==========
 Custom Character Generator for HD44780 LCD Modules
+(edited by Cooper)
 
 Usage
 -----
-The generator is available [here](http://omerk.github.com/lcdchargen/).
+My updated generator is available [here](http://omerk.github.com/lcdchargen/).
 
 Click on the blocks to create a custom character which will automatically generate output.
 
